@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 👋 Hi, I’m Adam
 - 👀 I’m interested in Backend Development
