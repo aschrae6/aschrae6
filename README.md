@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👋 Hi, I’m Adam
-👀 I’m interested in Backend Development
-🌱 I’m currently learning Java at BloomTech
-💞️ I’m looking to collaborate on interesting projects
-📫 How to reach me ...
+- 👋 Hi, I’m Adam
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Java at BloomTech
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me ...
 
 <!--
 **aschrae6/aschrae6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
