@@ -1,9 +1,13 @@
 <h1 align="center">Hello there 👋, I'm Adam</h1>
 
 - 👀 I’m interested in Backend Development
+
 - 🌱 I’m currently finishing the Java Backend program at BloomTech
+
 - 💞️ I’m looking to collaborate on interesting projects
+
 - 📫 How to reach me **adam.schraedel@gmail.com**
+
 - ⚡ Fun fact: I'm working on learning my fourth language - Japanese!
 
 <!--
@@ -21,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 - 🔭 I’m currently working on **Aether_Ark**
 
 - 🌱 I’m currently learning **more on Docker and Node.js**
@@ -33,4 +37,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me **eric.marshall.lambert@gmail.com**
 
 - ⚡ Fun fact **In the end, it's concluded that the airspeed velocity of a (European) unladen swallow is about 24 miles per hour or 11 meters per second.**
-
+-->
