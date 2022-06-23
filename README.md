@@ -10,8 +10,23 @@
 
 - ⚡ Fun fact: I'm working on learning my fourth language - Japanese!
 
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+
+
 <!--
 **aschrae6/aschrae6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+icons/generator: https://rahuldkjain.github.io/gh-profile-readme-generator/
+
 
 Here are some ideas to get you started:
 
@@ -25,16 +40,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-- 🔭 I’m currently working on **Aether_Ark**
-
-- 🌱 I’m currently learning **more on Docker and Node.js**
-
-- 👯 I’m looking to collaborate on **IOT**
-
-- 💬 Ask me about **Java or Digital Electronics**
-
-- 📫 How to reach me **eric.marshall.lambert@gmail.com**
-
-- ⚡ Fun fact **In the end, it's concluded that the airspeed velocity of a (European) unladen swallow is about 24 miles per hour or 11 meters per second.**
--->
