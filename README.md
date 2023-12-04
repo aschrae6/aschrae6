@@ -2,9 +2,7 @@
 
 - 👀 I’m interested in Backend Development
 
-- 🌱 I’m currently a Software Engineer at EY
-
-- 💞️ I’m looking to collaborate on interesting projects
+- 🌱 I’m currently a Software Engineer at JPMorgan Chase
 
 - 📫 How to reach me **adam.schraedel@gmail.com**
 
